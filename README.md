@@ -3,5 +3,8 @@
 # recaptcha-demo-v2
 Demo of reCAPTCHA using version 2.0
 
+Hosted on Pages: 
+https://patrickfrankaiu.github.io/recaptcha-demo-v2/
+
 For students in ITWEB program.
 Patrick Frank, Instructor
